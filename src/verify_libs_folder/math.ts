@@ -1,4 +1,4 @@
-const sum = (number1: number, number2: any): number | null => {
+export const sum = (number1: number, number2: any): number | null => {
   if (number1 < 0) {
     return null;
   }
