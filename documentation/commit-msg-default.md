@@ -1,5 +1,4 @@
-
-this is our commit-msg types
+### This is our commit-msg types
 
 - chore: Update of tasks that do not cause changes to the production code, but changes to tools, configuration changes and libraries.
 - feat: These are additions of new features or any other new implementations to the code.
@@ -11,5 +10,11 @@ this is our commit-msg types
 - build: Changes that affect the build system or external dependencies (example scopes: gulp, broccoli, npm).
 - ci: Changes to our CI configuration files and scripts (example scopes: Travis, Circle, BrowserStack, SauceLabs).
 
-this is an example: 
-- `git commit -m 'chore: commit test'
+### Example:
+
+- `git commit -m 'chore: commit test'`
+
+<br/>
+<br/>
+
+[:arrow_left: Back Main](../README.md)
